@@ -1,0 +1,1 @@
+it takes the names or ids of two buildings on the RPI Troy Campus, and generate directions for the shortest route between them. It supports GUI using Java's Swing and Abstract Windowing Toolkit (AWT) libraries.
